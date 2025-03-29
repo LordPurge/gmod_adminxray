@@ -7,7 +7,6 @@ if CLIENT then
     })
 
     local function drawxray()
-
         // For Players
         local pls = player.GetAll()
         for i = 1, #pls do
